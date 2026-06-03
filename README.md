@@ -1,106 +1,73 @@
-<!-- 
-  INSTRUÇÕES:
-  1. Copie todo este código.
-  2. Cole no arquivo README.md do repositório helt-23.
-  3. Substitua os links do LinkedIn e E-mail no final do arquivo.
-  4. Este layout utiliza animações SVG, seções expansíveis (interativas) e troféus dinâmicos para atrair recrutadores e dar movimento à página.
--->
+<h2 align="left">Olá! bem vindos ao meu github!</h2>
+
+###
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/helt-23/helt-23/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/helt-23/helt-23/stats-output/stats.svg" height="150" alt="stats graph"  />
+</div>
 
-  <!-- Efeito de digitação animado no título -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7B68EE&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Helton+Pessoa+%F0%9F%91%8B;Full+Stack+Developer;UI+Designer;Engenharia+de+Software" alt="Typing SVG" />
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="30" alt="insomnia logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/helt_pessoa?igsh=NG5id3RyYTN5cWl0" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-
-  <br>
-  
-  <!-- Contador dinâmico de visitantes -->
-  <img src="https://api.visitorbadge.io/api/visitors?path=helt-23&countColor=%237B68EE&style=flat-square" alt="Visitas ao perfil" />
-
-</div>
-
-<br>
-
-## 👨‍💻 Sobre mim
-
-Sou estudante de **Engenharia de Software** na Universidade Federal do Sul e Sudeste do Pará (Unifesspa) e atuo na intersecção entre o desenvolvimento de software e o design de interfaces. 
-
-Meu foco principal é a construção de sistemas escaláveis e interfaces intuitivas, aplicando rigorosamente os princípios **SOLID** e **Clean Architecture** para garantir códigos limpos, modulares e de fácil manutenção.
-
----
-
-## 🚀 Destaques e Projetos
-
-<!-- Seções expansíveis para interação: o recrutador precisa clicar para ler, o que retém a atenção -->
-
-<details>
-  <summary><b>🛠️ SIRLAB</b> <i>(Clique para expandir)</i></summary>
-  <blockquote>
-    Coautor do sistema com registro oficial de propriedade industrial no <b>INPI (BR512025003833-0)</b>. Atuei na liderança do desenvolvimento do frontend e idealização de todo o UI Design da plataforma.
-  </blockquote>
-</details>
-
-<details>
-  <summary><b>💰 Concilia</b> <i>(Clique para expandir)</i></summary>
-  <blockquote>
-    Desenvolvedor principal e arquiteto de um sistema completo de gestão financeira. O projeto abrange desde o design de interface até a construção de um backend robusto estruturado em Spring Boot.
-  </blockquote>
-</details>
-
----
-
-## 💻 Stacks e Ferramentas
-
-<div align="center">
-  <br>
-  <!-- Backend -->
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <!-- Frontend & UI -->
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <!-- Design -->
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</div>
-
----
-
-## 📊 Estatísticas e Conquistas
-
-<div align="center">
-  <!-- Troféus Dinâmicos do GitHub baseados nos seus commits e repositórios -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=helt-23&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="heltonpo23@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://br.linkedin.com/in/he23lt" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-<br>
 
-<div align="center">
-  <!-- Stats Gerais -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=helt-23&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <!-- Linguagens Mais Usadas -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helt-23&layout=compact&langs_count=7&theme=radical" alt="Linguagens mais utilizadas" />
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/helt-23/helt-23/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/helt-23/helt-23/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/helt-23/helt-23/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
-<br>
 
-<div align="center">
-  <!-- Streak (Sequência de Commits) para mostrar constância de trabalho -->
-  <img src="https://streak-stats.demolab.com?user=helt-23&theme=radical&border_radius=4.5" alt="GitHub Streak" />
-</div>
-
----
-
-## 📫 Como me encontrar
-
-<div align="center">
-  <!-- Links de contato centralizados -->
-  <a href="https://www.linkedin.com/in/SEU-LINK-AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:SEU-EMAIL-AQUI@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</div>
+###
